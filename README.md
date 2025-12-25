@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition Using MNIST
-My first simple AI model using the MNIST dataset to recognize handwritten digits.
+My first simple ML model using the MNIST dataset to recognize handwritten digits.
 
 ## Overview
 Check out [mnist_torch.py](https://github.com/JolieeZhuu/mnist-reader/blob/main/mnist_torch.py) for the model using PyTorch!
